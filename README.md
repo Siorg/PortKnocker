@@ -1,2 +1,1 @@
-Simple port knocking UDP applicatin
-
+Simple UDP port knocking application
